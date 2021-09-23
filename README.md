@@ -1,4 +1,10 @@
-### Hi there 👋
+![KakaoTalk_20210923_155007111](https://user-images.githubusercontent.com/48252546/134465305-7277d479-fd1b-45e5-85f4-454630bfc092.jpg)
+
+<h2>Hi there 👋!</h2>
+
+I'm Skinnig (Dong Hyeok Kim)
+- <b>Currently: </b> BS student @ KAIST CS 
+- <b>Previously: </b> Back End Software Engineer & Co-founder @ DearPlants
 
 <!--
 **kimdh98/kimdh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
