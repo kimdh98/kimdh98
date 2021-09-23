@@ -2,7 +2,7 @@
 
 <h2>Hi there 👋!</h2>
 
-I'm Skinnig (Dong Hyeok Kim)
+I'm Dong Hyeok Kim (Skinnig)
 - <b>Currently: </b> BS student @ KAIST CS 
 - <b>Previously: </b> Back End Software Engineer & Co-founder @ DearPlants
 
